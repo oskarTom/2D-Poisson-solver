@@ -94,7 +94,3 @@ The code can be used to simulate physical scenarios such as the electrostatic po
 ## References
 
 - William H. Press, Saul A. Teukolsky, William T. Vetterling, Brian P. Flannery, *Numerical Recipes in C*, Second Edition (1992), Cambridge University Press.
-
----
-
-For further mathematical and technical details, see `report.pdf`.
