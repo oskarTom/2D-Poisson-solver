@@ -97,4 +97,4 @@ The code can be used to simulate physical scenarios such as the electrostatic po
 
 ---
 
-For further mathematical and technical details, see `report.tex`.
+For further mathematical and technical details, see `report.pdf`.
