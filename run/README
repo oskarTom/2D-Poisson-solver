@@ -1,0 +1,5 @@
+Run with
+
+mpirun -np N run
+
+where N is the number of subprocesses
